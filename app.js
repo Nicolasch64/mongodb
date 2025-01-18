@@ -26,8 +26,8 @@ mongoose
 
 const testUser = new User({
 	id: 1,
-	name: "jean jean",
-	email: "jean@yahoo.fr",
+	name: "johnny",
+	email: "johnny@yahoo.fr",
 	age: 55,
 	adress: "11 rue de la lourde",
 	telephone: 3565448,
